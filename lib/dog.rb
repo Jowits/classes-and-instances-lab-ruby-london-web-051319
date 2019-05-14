@@ -3,6 +3,4 @@ class Dog
 
 end
 
- = Dog.new
-rusty = Dog.new
-fred = Dog.new
+ 
